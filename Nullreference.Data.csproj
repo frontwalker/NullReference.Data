@@ -71,6 +71,7 @@
     <Compile Include="IRepository.cs" />
     <Compile Include="NHibernateRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqLiteInMemorySessionSourceProvider.cs" />
     <Compile Include="SqlServerSessionSourceProvider.cs" />
     <Compile Include="StaticStateHolder.cs" />
   </ItemGroup>
